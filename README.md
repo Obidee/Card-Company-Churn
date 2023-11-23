@@ -8,7 +8,7 @@ In the analysis of the bank's card subscription data, the following steps were t
 
 1. The bank's dataset was downloaded from Kaggle as CSV file.
 
-2. The CSV file was imported into MySQL wgich was my DBMS where the analysis was carried out.
+2. The CSV file was imported into MySQL which was my DBMS where the analysis was carried out.
 
 3. The analysis was performed to determine the attrition of subscribers based on different parameters such as age range, education level, marital status, gender, etc.
 
